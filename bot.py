@@ -1,10 +1,8 @@
 import logging
 
 
-
-
-
 from posixpath import split
+
 from unittest import result
 
 #Updater - это компонент отвечающий за коммуникацию с сервером 
